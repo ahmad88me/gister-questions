@@ -7,6 +7,11 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 
 ### Q1:
 
+1. ![image](/images/class-alo.owl.png)
+2. ![image](/images/class-alo.owl.png)
+3. ![image](/images/class-alo.owl.png)
+4. ![image](/images/class-alo.owl.png)
+
 ### Q2:
 
 ### Q3:

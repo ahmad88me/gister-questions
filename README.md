@@ -9,8 +9,11 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 
 1. 
 
-| ![image](/images/class-alo.owl.png) |
-| ------ |
+<kbd><img src="/images/class-alo.owl.png" /></kbd>
+
+<!--
+ ![image](/images/class-alo.owl.png) 
+-->
 
 2.
 

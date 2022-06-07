@@ -5,7 +5,7 @@
 This contains the images for the questionnair sent to you. *Make sure to put your answers in the google form and not here.*
 
 
-### Q1. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
+### Q4. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
 
 1. 
 
@@ -24,10 +24,10 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 ![image](/images/class-alo.owl.png)
 
 
-### Q2. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
+### Q5. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
 
-### Q3. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
+### Q6. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
 
-### Q4. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
+### Q7. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
 
 

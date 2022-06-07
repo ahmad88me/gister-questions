@@ -8,7 +8,7 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 ### Q1. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
 
 1. 
- 
+
 ![image](/images/class-alo.owl.png)
 
 2.

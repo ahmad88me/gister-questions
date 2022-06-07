@@ -9,19 +9,20 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 
 1. 
  
-	![image](/images/class-alo.owl.png)
+![image](/images/class-alo.owl.png)
 
 2.
 
-	![image](/images/class-alo.owl.png)
+![image](/images/class-alo.owl.png)
 
 3.
 
-	![image](/images/class-alo.owl.png)
+![image](/images/class-alo.owl.png)
 
 4.
 
-	![image](/images/class-alo.owl.png)
+![image](/images/class-alo.owl.png)
+
 
 ### Q2. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?
 

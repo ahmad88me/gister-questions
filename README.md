@@ -9,7 +9,8 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 
 1. 
 
-![image](/images/class-alo.owl.png)
+| ![image](/images/class-alo.owl.png) |
+| ------ |
 
 2.
 

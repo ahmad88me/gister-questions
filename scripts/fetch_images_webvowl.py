@@ -18,9 +18,11 @@ def gather_images(jar_path, opath, template_path):
 
     # if not os.path.exists(webvowl_path):
     #     os.mkdir(webvowl_path)
-
-    shutil.copytree(template_path, webvowl_path)
-    print("java -jar -file %s -output %s" % (opath, os.path.join(res_path, "data")))
+    if not os.path.exists(webvowl_path):
+        shutil.copytree(template_path, webvowl_path)
+        print("java -jar -file %s -output %s" % (opath, os.path.join(res_path, "data")))
+    else:
+        print("Skip %s" % opath)
 
 
 def workflow(jar_path, ontologies_path, template_path):

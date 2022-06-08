@@ -1,6 +1,7 @@
 import os
 import shutil
 import sys
+import traceback
 
 
 def gather_images(jar_path, opath, template_path):
@@ -33,6 +34,8 @@ def workflow(jar_path, ontologies_path, template_path):
             gather_images(jar_path, os.path.join(ontologies_path, opath), template_path)
         except Exception as e:
             print("unable to generate resources for: %s" % opath)
+            print(str(e))
+            traceback.print_exc()
 
 
 if __name__ == '__main__':

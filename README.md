@@ -9,11 +9,11 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 
 1. 
 
-![image](images/class-alo.owl.png) 
+![image](images/adms.rdf/aclaadms.rdf.png) 
 
 2.
 
-![image](images/class-alo.owl.png)
+![image](images/adms.rdf/ataxadms.rdf.png) 
 
 3.
 
@@ -21,9 +21,8 @@ This contains the images for the questionnair sent to you. *Make sure to put you
 
 4.
 
-<iframe></iframe>
+<iframe align="center" width="100%" height ="500px" src="images/adms.rdf/webvowl/index.html"></iframe> 
 
-![image](images/class-alo.owl.png)
 
 
 ### Q5. Which diagram do you prefer to see when deciding if the ontology might be relevant or not?

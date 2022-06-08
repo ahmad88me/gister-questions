@@ -24,10 +24,10 @@ def gather_images(opath):
     if not os.path.exists(dest):
         shutil.copyfile(src_path, dest)
 
-    src_path = os.path.join(opath, 'documentation', 'webvowl')
-    dest = os.path.join(res_path, "webvowl")
-    if not os.path.exists(dest):
-        shutil.copytree(src_path, dest)
+    # src_path = os.path.join(opath, 'documentation', 'webvowl')
+    # dest = os.path.join(res_path, "webvowl")
+    # if not os.path.exists(dest):
+    #     shutil.copytree(src_path, dest)
 
 
 def workflow(ontologies_path):

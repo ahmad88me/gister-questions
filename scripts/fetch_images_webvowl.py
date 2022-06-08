@@ -18,7 +18,7 @@ def gather_images(jar_path, opath, template_path):
 
     # if not os.path.exists(webvowl_path):
     #     os.mkdir(webvowl_path)
-    index_path = os.path.exists(webvowl_path, "index.html")
+    index_path = os.path.join(webvowl_path, "index.html")
     if not os.path.exists(index_path):
         shutil.copytree(template_path, webvowl_path)
         print("java -jar -file %s -output %s" % (opath, os.path.join(res_path, "data")))

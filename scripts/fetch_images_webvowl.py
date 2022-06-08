@@ -25,7 +25,7 @@ def gather_images(jar_path, opath, template_path):
             print("DEBUG: webvowl exists: %s" % webvowl_path)
             os.rmdir(webvowl_path)
         shutil.copytree(template_path, webvowl_path)
-        print("java -jar -file %s -output %s" % (opath, os.path.join(res_path, "data")))
+        print("java -jar %s -file %s -output %s" % (jar_path, opath, os.path.join(res_path, "data")))
     else:
         print("Skip %s" % opath)
 
